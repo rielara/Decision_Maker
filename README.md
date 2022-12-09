@@ -15,5 +15,5 @@
 
 # 🔮 Demo 🔮
 
-![decisionmaker](https://user-images.githubusercontent.com/78863735/206807689-ae3b38a6-5ce2-465a-95d8-487f4ab4bb3d.jpg)
+![decisionmaker](https://user-images.githubusercontent.com/78863735/206810531-595a89a0-de4e-4006-b88a-1f30fc6abe2a.jpg)
 
